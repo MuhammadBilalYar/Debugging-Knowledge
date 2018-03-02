@@ -1,0 +1,15 @@
+c:\users\muhammad.bilal\documents\visual studio 2017\Projects\Bentley Debugging Knowledge\Conditional Beakpoint\bin\Debug\Conditional Beakpoint.exe.config
+c:\users\muhammad.bilal\documents\visual studio 2017\Projects\Bentley Debugging Knowledge\Conditional Beakpoint\bin\Debug\Conditional Beakpoint.exe
+c:\users\muhammad.bilal\documents\visual studio 2017\Projects\Bentley Debugging Knowledge\Conditional Beakpoint\bin\Debug\Conditional Beakpoint.pdb
+c:\users\muhammad.bilal\documents\visual studio 2017\Projects\Bentley Debugging Knowledge\Conditional Beakpoint\obj\Debug\Conditional Beakpoint.csprojResolveAssemblyReference.cache
+c:\users\muhammad.bilal\documents\visual studio 2017\Projects\Bentley Debugging Knowledge\Conditional Beakpoint\obj\Debug\Conditional Beakpoint.csproj.CoreCompileInputs.cache
+c:\users\muhammad.bilal\documents\visual studio 2017\Projects\Bentley Debugging Knowledge\Conditional Beakpoint\obj\Debug\Conditional Beakpoint.exe
+c:\users\muhammad.bilal\documents\visual studio 2017\Projects\Bentley Debugging Knowledge\Conditional Beakpoint\obj\Debug\Conditional Beakpoint.pdb
+C:\Users\Muhammad.bilal\documents\visual studio 2017\Projects\Bentley Debugging Knowledge\Conditional Beakpoint\bin\Debug\Bentley.CONNECT.UnitTest.TestHelpers.dll
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Conditional Beakpoint\bin\Debug\Conditional Beakpoint.exe.config
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Conditional Beakpoint\bin\Debug\Conditional Beakpoint.exe
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Conditional Beakpoint\bin\Debug\Conditional Beakpoint.pdb
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Conditional Beakpoint\obj\Debug\Conditional Beakpoint.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Conditional Beakpoint\obj\Debug\Conditional Beakpoint.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Conditional Beakpoint\obj\Debug\Conditional Beakpoint.exe
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Conditional Beakpoint\obj\Debug\Conditional Beakpoint.pdb

@@ -1,0 +1,42 @@
+﻿{
+  "instances": [
+    {
+      "instanceId": "c5ced195-6399-421f-b4c1-da993a7c9efc",
+      "schemaName": "ProjectShare",
+      "className": "File",
+      "properties": {
+        "Alias": null,
+        "ContainerName": null,
+        "ContentType": "i-model",
+        "ModifiedBy": "d99bdded-25f3-4736-9580-cc5722d354bb",
+        "CreatedBy": "d99bdded-25f3-4736-9580-cc5722d354bb",
+        "Path": "d9cf486e-5049-4b68-966f-5f2b1df8bddc/",
+        "ModifiedTimeStamp": "2018-02-01T06:54:44.9310525",
+        "CreatedTimeStamp": "2017-11-23T05:18:31.7977908",
+        "FileExists": true,
+        "Size": "999936",
+        "Description": null,
+        "Name": "A-CurtainWalls.dgn.i.dgn",
+        "RootFile": null,
+        "Deleted": null,
+        "DeletedTimeStamp": null,
+        "DownloadAccess": null,
+        "CustomProperties": [
+          {
+            "Name": "WebViewLink",
+            "Value": "https://dev-connect-imodelweb.bentley.com/?id=2efbc8df-9699-4ae0-a039-8ec8e89f77a0&projectId=d9cf486e-5049-4b68-966f-5f2b1df8bddc&dataId=01852b32-3f9f-40ce-b24c-309da239e7ba"
+          },
+          {
+            "Name": "DocumentId",
+            "Value": "b8d0d607-7df8-46a2-a334-ab6070335140"
+          }
+        ],
+        "Checksum": "",
+        "Locked": null,
+        "AccessUrl": "https://projectsharedeveussa01.blob.core.windows.net/azuresqldbecpluginstorage/ProjectShare/File/c5ced195-6399-421f-b4c1-da993a7c9efc?sv=2017-04-17&sr=b&sig=aFtGTF4uSelTeM2Ic4MlUUM%2FB5F0j0Oi076GY2zhlXg%3D&se=2018-02-01T11:33:10Z&sp=rw&rscd=attachment%3B filename%3DA-CurtainWalls.dgn.i.dgn",
+        "DeltaAccessUrl": "https://projectsharedeveussa01.blob.core.windows.net/azuresqldbecpluginstorage/ProjectShare/File/c5ced195-6399-421f-b4c1-da993a7c9efc.delta?sv=2017-04-17&sr=b&sig=2SDPznMbGV6XiIkHcjAd1DSiWvnNd4NEv%2Fo6Nxorym4%3D&se=2018-02-01T11:33:10Z&sp=rw"
+      },
+      "eTag": "\"\"mACqQCTt++orFZSnn28V8NiO74c=\"\""
+    }
+  ]
+}

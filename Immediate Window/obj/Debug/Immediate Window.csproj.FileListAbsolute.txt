@@ -1,0 +1,15 @@
+C:\Users\Muhammad.bilal\documents\visual studio 2017\Projects\Bentley Debugging Knowledge\Immediate Window\bin\Debug\jsonfile.json
+C:\Users\Muhammad.bilal\documents\visual studio 2017\Projects\Bentley Debugging Knowledge\Immediate Window\bin\Debug\Immediate Window.exe.config
+C:\Users\Muhammad.bilal\documents\visual studio 2017\Projects\Bentley Debugging Knowledge\Immediate Window\bin\Debug\Immediate Window.exe
+C:\Users\Muhammad.bilal\documents\visual studio 2017\Projects\Bentley Debugging Knowledge\Immediate Window\bin\Debug\Immediate Window.pdb
+C:\Users\Muhammad.bilal\documents\visual studio 2017\Projects\Bentley Debugging Knowledge\Immediate Window\obj\Debug\Immediate Window.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad.bilal\documents\visual studio 2017\Projects\Bentley Debugging Knowledge\Immediate Window\obj\Debug\Immediate Window.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad.bilal\documents\visual studio 2017\Projects\Bentley Debugging Knowledge\Immediate Window\obj\Debug\Immediate Window.exe
+C:\Users\Muhammad.bilal\documents\visual studio 2017\Projects\Bentley Debugging Knowledge\Immediate Window\obj\Debug\Immediate Window.pdb
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Immediate Window\bin\Debug\Immediate Window.exe.config
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Immediate Window\bin\Debug\Immediate Window.exe
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Immediate Window\bin\Debug\Immediate Window.pdb
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Immediate Window\obj\Debug\Immediate Window.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Immediate Window\obj\Debug\Immediate Window.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Immediate Window\obj\Debug\Immediate Window.exe
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Immediate Window\obj\Debug\Immediate Window.pdb

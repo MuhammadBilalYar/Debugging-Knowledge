@@ -1,0 +1,7 @@
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Locals And Autos\bin\Debug\Locals And Autos.exe.config
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Locals And Autos\bin\Debug\Locals And Autos.exe
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Locals And Autos\bin\Debug\Locals And Autos.pdb
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Locals And Autos\obj\Debug\Locals And Autos.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Locals And Autos\obj\Debug\Locals And Autos.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Locals And Autos\obj\Debug\Locals And Autos.exe
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\Locals And Autos\obj\Debug\Locals And Autos.pdb

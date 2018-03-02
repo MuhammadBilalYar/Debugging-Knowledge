@@ -1,0 +1,7 @@
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\BreakPoints\bin\Debug\BreakPoints.exe.config
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\BreakPoints\bin\Debug\BreakPoints.exe
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\BreakPoints\bin\Debug\BreakPoints.pdb
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\BreakPoints\obj\Debug\BreakPoints.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\BreakPoints\obj\Debug\BreakPoints.exe
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\BreakPoints\obj\Debug\BreakPoints.pdb
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\BreakPoints\obj\Debug\BreakPoints.csprojResolveAssemblyReference.cache

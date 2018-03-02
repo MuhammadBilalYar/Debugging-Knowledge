@@ -1,0 +1,6 @@
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\QuickWatch\bin\Debug\QuickWatch.exe.config
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\QuickWatch\bin\Debug\QuickWatch.exe
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\QuickWatch\bin\Debug\QuickWatch.pdb
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\QuickWatch\obj\Debug\QuickWatch.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\QuickWatch\obj\Debug\QuickWatch.exe
+C:\Users\Muhammad.bilal\Desktop\Bentley Debugging Knowledge\Bentley Debugging Knowledge\QuickWatch\obj\Debug\QuickWatch.pdb
